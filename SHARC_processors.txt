@@ -1,0 +1,11 @@
+SHARC Processor family from Analog Devices (ADI) are programmable DSPs that allow customizations for specific audio requirements. 
+
+Features:
+- Hardware Sample-Rate Converters
+- Encryption and Decryption
+- Sophisticated Digital Audio Interface
+- On-Chip ROM containing multiple audio decoders
+
+
+Sources
+- 
